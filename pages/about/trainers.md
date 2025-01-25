@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Acerca de
-subtitle: Los Entrenadores
+title: Über uns 
+subtitle: Trainer
 ---
 
 # Dylan Rajic
@@ -53,6 +53,53 @@ tbc
 
 ![Mike]({{ 'assets/img/about/mike.jpg' | relative_url }})
 tbc...
+<ul class="list-inline text-center footer-links">
+  <li class="list-inline-item">
+    <a href="tel:{{ network[1] }}" title="Phone">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Phone</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="mailto:{{ network[1] }}" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="https://www.facebook.com/{{ network[1] }}" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Facebook</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="https://www.instagram.com/{{ network[1] }}" title="Instagram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Instagram</span>
+   </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="https://linkedin.com/in/{{ network[1] }}" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
+</ul> 
 
 ### Sprachen
 🇨🇭 🇩🇪 🇬🇧 🇫🇷 

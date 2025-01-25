@@ -25,7 +25,7 @@ navbar-links:
     - Trainer: "pages/about/trainers"
   Kurse: "pages/courses"
   Ort: "pages/location"
-  Gallerie: "pages/gallery"
+  Gallerie: "pages/gallery/gym"
   #Mehr:
   #  - "https://ambro.ventures"
 
@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/about/logo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
