@@ -1,0 +1,45 @@
+---
+layout: null
+---
+:root {
+    /* config file CSS variables */
+    --cta-col: {{ site.cta-col | default: "#FFA500" }};
+    --cta-text-col: {{ site.cta-text-col | default: "#ffffff" }};
+    --cta-shadow-col: {{ site.cta-shadow-col | default: "#b37400" }};
+    --cta-hover-col: {{ site.cta-hover-col | default: "#e69500" }};
+    --cta-activate-col: {{ site.cta-activate-col | default: "#CC8400" }};
+}
+
+/* Reset anchor styles specifically for cta-button */
+a.cta-button {
+    text-decoration: none;  /* Remove underline from link */
+    color: var(--cta-text-col); /* Ensure it uses text color from cta-button styles */
+    display: inline-block;  /* Ensure it is treated as clickable block */
+}
+
+/* loosely based on https://dabuttonfactory.com/button.png?t=Reg%C3%ADstrate+ahora&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=cc8400&hp=40&vp=20&c=round&bgt=unicolored&bgc=ffa500&shs=3&shc=cc8400&sho=s */
+.cta-button{
+    background:    var(--cta-col);
+    border-radius: 1000px;
+    box-shadow:    0 3px var(--cta-shadow-col);
+    padding:       20px 40px;
+    color:         var(--cta-text-col);
+    display:       inline-block;
+    font:          normal bold 26px/1 "Open Sans", sans-serif;
+    text-align:    center;
+    text-shadow:   -1px -1px var(--cta-shadow-col);
+    text-decoration: none;
+    cursor:        pointer; /* Makes the button feel clickable */
+    transition:    background-color 0.3s, box-shadow 0.3s, transform 0.3s; /* Smooth transition for hover and active states */
+}
+
+.cta-button:hover, .cta-button:focus {
+    background-color: var(--cta-hover-col);
+    box-shadow: 0 5px var(--cta-shadow-col);
+}
+
+.cta-button:active {
+    background-color: var(--cta-activate-col);
+    box-shadow: 0 1px var(--cta-shadow-col);
+    transform: scale(0.98); /* Slightly shrink the button to give a tactile feedback */
+}
