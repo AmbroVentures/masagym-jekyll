@@ -53,8 +53,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  telephone: +41763485653
+  email: "masagymwettingen@gmail.com"
   instagram: masagymwettingen
+  whatsapp: +41763485653
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -68,7 +70,6 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname

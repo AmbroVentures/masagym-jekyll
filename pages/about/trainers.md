@@ -5,10 +5,10 @@ subtitle: Trainer
 ---
 
 # Dylan Rajic
-> ❝ zitat
+> ❝ I'm the best standup fighter in Switzerland.
 
 ![Dylan]({{ 'assets/img/about/dylan.jpg' | relative_url }})
-Als professioneler Boxer ist Dylan...
+Trotz seines jungen Alters beeindruckt er durch seine Reife, Bodenständigkeit und sein Engagement als Trainer. Als professioneller MMA-Kämpfer und Boxer bringt er eine Fülle an Erfahrung und Expertise mit, die er in seinen praxisnahen und abwechslungsreichen Unterricht einfließen lässt. Seine Leidenschaft und sein Können machen ihn zu einer inspirierenden Führungspersönlichkeit für unser Team und unsere Mitglieder.
 
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
@@ -39,72 +39,12 @@ Als professioneler Boxer ist Dylan...
    </a>
   </li>
 </ul> 
-
-### Sprachen
-🇬🇧 🇭🇷 
-
-## Lebenslauf
-tbc
-
----
-
-# Mike Briner
-> ❝ zitat
-
-![Mike]({{ 'assets/img/about/mike.jpg' | relative_url }})
-tbc...
 <ul class="list-inline text-center footer-links">
-  <li class="list-inline-item">
-    <a href="tel:{{ network[1] }}" title="Phone">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Phone</span>
-   </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="mailto:{{ network[1] }}" title="Email me">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Email me</span>
-   </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://www.facebook.com/{{ network[1] }}" title="Facebook">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Facebook</span>
-   </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://www.instagram.com/{{ network[1] }}" title="Instagram">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Instagram</span>
-   </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://linkedin.com/in/{{ network[1] }}" title="LinkedIn">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">LinkedIn</span>
-   </a>
-  </li>
-</ul> 
+  <li class="list-inline-item">🇳🇱<li>
+  <li class="list-inline-item">🇬🇧<li>
+  <li class="list-inline-item">🇧🇦<li>
+</ul>
 
-### Sprachen
-🇨🇭 🇩🇪 🇬🇧 🇫🇷 
-
-## Lebenslauf
-tbc
-
----
+## Pro-Records
+[MMA](https://www.tapology.com/fightcenter/fighters/456466-dylan-rajic){:target="_blank"}: 1-0-0 (W-L-D)
+[Boxen](https://boxrec.com/en/box-am/1078037){:target="_blank"}: 2-2-0 (W-L-D)
