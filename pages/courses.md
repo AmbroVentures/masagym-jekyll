@@ -54,10 +54,11 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
 ## Abos
 
-|                             | Preis pro Halbjahr |
-|-----------------------------|-----------|
-| **Jugendliche (bis 18 J.)** | CHF 200.- |
-| **Erwachsene**              | CHF 300.- |
+|                  | Preis pro Halbjahr |
+|------------------|-----------|
+| __Jugendliche*__ | CHF 200.- |
+| **Erwachsene**   | CHF 300.- |
+*) bis 18 Jahren
 
 ## Privatstunden
 

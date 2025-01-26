@@ -40,9 +40,9 @@ Trotz seines jungen Alters beeindruckt er durch seine Reife, Bodenständigkeit u
   </li>
 </ul> 
 <ul class="list-inline text-center footer-links">
-  <li class="list-inline-item">🇳🇱<li>
-  <li class="list-inline-item">🇬🇧<li>
-  <li class="list-inline-item">🇧🇦<li>
+  <li class="list-inline-item">🇳🇱</li>
+  <li class="list-inline-item">🇬🇧</li>
+  <li class="list-inline-item">🇧🇦</li>
 </ul>
 
 ## Pro-Records
