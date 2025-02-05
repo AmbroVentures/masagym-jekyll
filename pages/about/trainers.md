@@ -12,7 +12,7 @@ Trotz seines jungen Alters beeindruckt er durch seine Reife, Bodenständigkeit u
 
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
-    <a href="tel:{{ network[1] }}" title="Phone">
+    <a href="tel:+41763485653" title="Phone">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
@@ -21,7 +21,7 @@ Trotz seines jungen Alters beeindruckt er durch seine Reife, Bodenständigkeit u
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="mailto:{{ network[1] }}" title="Email me">
+    <a href="mailto:masagymwettingen@gmail.com" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -46,5 +46,5 @@ Trotz seines jungen Alters beeindruckt er durch seine Reife, Bodenständigkeit u
 </ul>
 
 ## Pro-Records
-[MMA](https://www.tapology.com/fightcenter/fighters/456466-dylan-rajic){:target="_blank"}: 1-0-0 (W-L-D)
+[MMA](https://www.tapology.com/fightcenter/fighters/456466-dylan-rajic){:target="_blank"}: 1-0-0 (W-L-D)  
 [Boxen](https://boxrec.com/en/box-am/1078037){:target="_blank"}: 2-2-0 (W-L-D)

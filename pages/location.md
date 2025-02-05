@@ -2,12 +2,12 @@
 layout: page
 title: Standort
 subtitle: Trainiere mit uns!
-#TODO: Parkplatz
+#TODO: Eingang
 ---
 
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
-    <a href="tel:{{ network[1] }}" title="Phone">
+    <a href="tel:+41763485653" title="Phone">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
@@ -16,7 +16,7 @@ subtitle: Trainiere mit uns!
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="mailto:{{ network[1] }}" title="Email me">
+    <a href="mailto:masagymwettingen@gmail.com" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -25,7 +25,7 @@ subtitle: Trainiere mit uns!
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="https://www.instagram.com/{{ network[1] }}" title="Instagram">
+    <a href="https://www.instagram.com/masagymwettingen" title="Instagram">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>

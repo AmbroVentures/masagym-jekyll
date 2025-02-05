@@ -5,7 +5,7 @@ subtitle: Stundenplan & Preise
 css:
   - assets/css/cta.css
 
-#TODO: promo text, stundenplan, anmeldung (probetraining?),  preise
+#TODO: CTA
 ---
 
 ## Stundenplan
@@ -24,7 +24,7 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
-    <a href="tel:{{ network[1] }}" title="Phone">
+    <a href="tel:+41763485653" title="Phone">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
@@ -33,7 +33,7 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="mailto:{{ network[1] }}" title="Email me">
+    <a href="mailto:masagymwettingen@gmail.com" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -42,7 +42,7 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="https://www.instagram.com/dylanrajic" title="Instagram">
+    <a href="https://www.instagram.com/masagymwettingen" title="Instagram">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
@@ -50,7 +50,7 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
       <span class="sr-only">Instagram</span>
    </a>
   </li>
-</ul>
+ </ul>
 
 ## Abos
 
