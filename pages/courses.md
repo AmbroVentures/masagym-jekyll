@@ -62,4 +62,4 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
 ## Privatstunden
 
-Vereinbare mit unserem kompetenten [Headcoach](/pages/about/trainers.md) massgeschneiderte 1:1 Trainingsstunden, um deine persönlichen Ziele zu erreichen.
+Vereinbare mit unserem kompetenten [Headcoach](/pages/about/trainers) massgeschneiderte 1:1 Trainingsstunden, um deine persönlichen Ziele zu erreichen.
