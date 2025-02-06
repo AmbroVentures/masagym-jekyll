@@ -5,6 +5,7 @@ subtitle: Trainer
 ---
 
 # Dylan Rajic
+
 > ❝ I'm the best standup fighter in Switzerland.
 
 ![Dylan]({{ 'assets/img/about/dylan.jpg' | relative_url }})
@@ -46,5 +47,6 @@ Trotz seines jungen Alters beeindruckt er durch seine Reife, Bodenständigkeit u
 </ul>
 
 ## Pro-Records
+
 [MMA](https://www.tapology.com/fightcenter/fighters/456466-dylan-rajic){:target="_blank"}: 1-0-0 (W-L-D)  
 [Boxen](https://boxrec.com/en/box-am/1078037){:target="_blank"}: 2-2-0 (W-L-D)

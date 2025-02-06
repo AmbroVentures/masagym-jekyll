@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kurse
-subtitle: Stundenplan & Preise
+subtitle: Trainingszeiten & Preise
 css:
   - assets/css/cta.css
 
@@ -57,7 +57,8 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 |                  | Preis pro Halbjahr |
 |------------------|-----------|
 | __Jugendliche*__ | CHF 200.- |
-| **Erwachsene**   | CHF 300.- |
+| __Erwachsene__   | CHF 300.- |
+
 *) bis 18 Jahren
 
 ## Privatstunden

@@ -20,17 +20,17 @@ Wir setzen uns für eine respektvolle und ethische Ausübung des Kampfsports ein
 - **Gemeinschaft:** Werde Teil einer motivierenden und unterstützenden Community.
 - **Trainingsmaterial:** Bei Bedarf stellen wir dir die nötige Ausrüstung zur Verfügung.  
 
-Unser Verein bietet nicht nur ein Umfeld für sportliche Entwicklung, sondern auch für persönliche Entfaltung und soziale Kontakte.
+**Masa** kommt aus dem bosnischen und steht für Grosses, denn bei uns kommst auch du **Gross** raus!
 
 Auf unserer [Kursübersicht](/pages/courses.md) findest du weitere Details wie Stundenplan und Preise.
 
 ## Unsere Werte
 
 - **Respekt:** Der Umgang miteinander ist fair, freundlich und wertschätzend.
-- **Vielfalt:** Vielfalt macht uns stark. 
+- **Vielfalt:** Vielfalt macht uns stark.  
 - **Kompetenz:** Unser [Trainerteam](/pages/about/trainers.md) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogicher Ausbildung.
 
-## Werde Teil von Masa Gym!
+## Werde Teil von Masa Gym
 
 Ob du den Kampfsport neu ausprobieren möchtest oder dich auf einen professionellen Kampf vorbereitest – wir freuen uns darauf, dich dabei zu begleiten.
 
