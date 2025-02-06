@@ -2,7 +2,6 @@
 layout: page
 title: Standort
 subtitle: Trainiere mit uns!
-#TODO: Eingang
 ---
 
 <ul class="list-inline text-center footer-links">
@@ -48,6 +47,10 @@ Schweiz
 Derzeit teilen wir uns die Location mit der [IWTOA Kung-Fu Schule](https://www.iwtoa.ch/){:target="_blank"}. Der Umzug in unser eigenes Studio ist in Planung und beschränkt sich auf die Region Baden-Wettingen.
 
 ### Anreise
+
+#### Parkplatz
+Die Parkplätze der WESCO AG vis-a-vis unserer Kampfsportschule dürfen von unseren Mitgliedern zu Trainingszeiten frei genutzt werden.
+
 #### Mit der öV
 Zug nach Baden, Bahnhof  
 Bus nach Wettingen, Hardstrasse  
@@ -55,5 +58,16 @@ Linien: 1, 7, 12
 
 Finde deine optimale Route via [sbb.ch](https://www.sbb.ch/de?moment=%22DEPARTURE%22&stops=%5B%7B%22type%22%3A%22COORDINATES%22%2C%22label%22%3A%22Aktueller%20Standort%22%2C%22value%22%3A%22%5B8.3133648%2C47.458907%5D%22%7D%2C%7B%22value%22%3A%228590297%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Wettingen%2C%20Hardstrasse%22%7D%5D){:target="_blank"}
 
-#### Parkplatz
-Die Parkplätze der WESCO AG vis-a-vis unserer Kampfsportschule dürfen von unseren Mitgliedern zu Trainingszeiten frei genutzt werden.
+##### Wegbeschreibung
+
+![1.]({{ '/assets/img/streetview/way1.JPEG' | relative_url }})
+➡️ am Ende der Strasse **rechts** abbiegen
+
+![2.]({{ '/assets/img/streetview/way2.JPEG' | relative_url }})
+➡️ bei der Beschilderung (Huser, ASL, etc) **rechts** in die Einfahrt abbiegen
+
+![3.]({{ '/assets/img/streetview/way3.JPEG' | relative_url }})
+⬆️ alles **geradeaus** bis zur Tägerhardmatte 6 (rechts)
+
+![4.]({{ '/assets/img/streetview/way4.JPEG' | relative_url }})
+🛎️ klingeln bei **IWTO**
