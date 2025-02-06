@@ -54,13 +54,13 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
 ## Abos
 
-|                     | Preis pro Halbjahr |
-|---------------------|--------------------|
-| __Jugendliche[^1]__ | CHF 200            |
-| __Erwachsene__      | CHF 300            |
+|                  | Preis pro Halbjahr |
+|------------------|--------------------|
+| __Jugendliche*__ | CHF 200            |
+| __Erwachsene__   | CHF 300            |
 
-[^1]: bis 18 Jahren
+*) bis 18 Jahren
 
 ## Privatstunden
 
-Vereinbare mit unserem kompetenten [Headcoach](/pages/about/trainers) massgeschneiderte 1:1 Trainingsstunden, um deine persönlichen Ziele zu erreichen.
+Vereinbare mit unserem kompetenten [Headcoach](/pages/about/trainers) massgeschneiderte 1:1-Trainingsstunden, um deine persönlichen Ziele zu erreichen.
