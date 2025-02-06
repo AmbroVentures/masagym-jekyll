@@ -20,7 +20,7 @@ Wir setzen uns für eine respektvolle und ethische Ausübung des Kampfsports ein
 - **Gemeinschaft:** Werde Teil einer motivierenden und unterstützenden Community.
 - **Trainingsmaterial:** Bei Bedarf stellen wir dir die nötige Ausrüstung zur Verfügung.  
 
-**Masa** kommt aus dem bosnischen und steht für Grosses, denn bei uns kommst auch du **Gross** raus!
+"**Masa**" kommt aus dem bosnischen und steht für "Grosses", denn bei uns kommst auch du **Gross** raus!
 
 Auf unserer [Kursübersicht](/pages/courses.md) findest du weitere Details wie Stundenplan und Preise.
 
