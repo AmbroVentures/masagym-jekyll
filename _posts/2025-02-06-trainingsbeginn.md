@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Trainingsbegin
+title: Trainingsbeginn
 subtitle: Der Startgong ertönt – Dein Kampfsportverein öffnet die Türen!
-thumbnail-img: /assets/img/promo/Trainingsbegin.jpeg
-share-img: /assets/img/promo/Trainingsbegin.jpeg
+thumbnail-img: /assets/img/promo/Trainingsbeginn.jpeg
+share-img: /assets/img/promo/Trainingsbeginn.jpeg
 tags: [Event,Info]
 ---
 
@@ -26,4 +26,4 @@ Das Datum passt dir nicht? Wirf einen Blick auf unseren [Stundenplan](/pages/cou
 
 Wir freuen uns darauf, mit dir durchzustarten! 💪🚀
 
-![Thumbnail]({{ '/assets/img/promo/Trainingsbegin.jpeg' | relative_url }})
+![Thumbnail]({{ '/assets/img/promo/Trainingsbeginn.jpeg' | relative_url }})
