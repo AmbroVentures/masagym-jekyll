@@ -19,7 +19,7 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: Arial, sans-serif;
+  --body-font: 'Arial Nova Light', 'Arial Light', Arial, sans-serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
 }
