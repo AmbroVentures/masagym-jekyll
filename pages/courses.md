@@ -12,7 +12,7 @@ css:
 
 | Zeiten | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Sa/So |
 |--------|--------|----------|----------|------------|---------|---------|
-| 17:00 - 18:30 |  |  |  | Boxen & Kickboxen |  | |
+| 17:00 - 18:30 | Boxen & Kickboxen |  |  | Boxen & Kickboxen |  | |
 | 20:00 - 21:30 |  | Boxen & Kickboxen |  |  |  | |
 | Nach Absprache |  |  |  |  |  | Sparring |
 
@@ -59,7 +59,7 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 | __Jugendliche*__ | CHF 200      |
 | __Erwachsene__   | CHF 300      |
 
-*) bis 18 Jahren
+*bis 18 Jahren
 
 ## Privatstunden
 
