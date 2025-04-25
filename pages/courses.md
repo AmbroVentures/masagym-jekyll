@@ -18,7 +18,7 @@ css:
 
 ## Anmeldung
 
-Kontaktiere einen unserer Trainer über einen Kanal (am liebsten über Instagram) für ein Probetraining an. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
+Für ein Probetraining kontaktiere einen unserer Trainer über einen Kanal - am liebsten über Instagram. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
 
 Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
