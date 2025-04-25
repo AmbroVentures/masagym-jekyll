@@ -10,15 +10,15 @@ css:
 
 ## Stundenplan
 
-| Zeiten | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag |
+| Zeiten | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Sa/So |
 |--------|--------|----------|----------|------------|---------|---------|
-| 17:15 - 18:30 |  |  |  | Boxen & Kickboxen |  | |
-| 18:30 - 20:00 |  | Boxen & Kickboxen |  |  |  | |
+| 17:00 - 18:30 |  |  |  | Boxen & Kickboxen |  | |
+| 20:00 - 21:30 |  | Boxen & Kickboxen |  |  |  | |
 | Nach Absprache |  |  |  |  |  | Sparring |
 
 ## Anmeldung
 
-Komm einfach zu einem unverbindlichen Probetraining vorbei. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
+Kontaktiere einen unserer Trainer über einen Kanal (am liebsten über Instagram) für ein Probetraining an. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
 
 Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
