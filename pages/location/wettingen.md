@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Standort
+title: Standort - Wettingen
 subtitle: Trainiere mit uns!
 ---
 
@@ -44,7 +44,7 @@ Schweiz
 #### Maps
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2697.6675856851666!2d8.330601676384596!3d47.457418871176586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47906d2a4edd2b0b%3A0xb91a5a69219d9733!2sIWTOA%20-%20WingTsun%20Kung-Fu%20D.B.%20Schule%20Wettingen%20-%20Selbstverteidigung%20%26%20Kampfkunst!5e0!3m2!1sen!2sch!4v1737820763839!5m2!1sen!2sch" style="text-align:center;" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-Derzeit teilen wir uns die Location mit der [IWTOA Kung-Fu Schule](https://www.iwtoa.ch/){:target="_blank"}. Der Umzug in unser eigenes Studio ist in Planung und beschränkt sich auf die Region Baden-Wettingen.
+In Wettingen teilen wir uns die Location mit der [IWTOA Kung-Fu Schule](https://www.iwtoa.ch/){:target="_blank"}.
 
 ### Anreise
 

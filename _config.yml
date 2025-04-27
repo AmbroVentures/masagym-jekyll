@@ -24,7 +24,9 @@ navbar-links:
     - Masa: "pages/about/masa"
     - Trainer: "pages/about/trainers"
   Kurse: "pages/courses"
-  Ort: "pages/location"
+  Ort:
+    - Baden: "pages/baden"
+    - Wettingen: "pages/wettingen"
   Gallerie: "pages/gallery/gym"
   FAQ: "pages/faq"
   #Mehr:
@@ -58,11 +60,12 @@ social-network-links:
   email: "masagymwettingen@gmail.com"
   instagram: masagymwettingen
   whatsapp: +41763485653
+  youtube: "@masagym"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-#  youtube: "@daattali"
+#  youtube: "@Masagym"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
