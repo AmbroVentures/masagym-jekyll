@@ -24,7 +24,7 @@ subtitle: Trainiere mit uns!
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="https://www.instagram.com/masagymwettingen" title="Instagram">
+    <a href="https://www.instagram.com/ma54gym" title="Instagram">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>

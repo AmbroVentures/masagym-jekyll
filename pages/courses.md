@@ -21,7 +21,7 @@ css:
 
 Melde dich an und komm zu einem unverbindlichen Probetraining vorbei. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
 
-Für Anmeldungen bevorzugen wir eine kurze Nachricht via [Instagram DM](https://www.instagram.com/masagymwettingen){:target="_blank"}.
+Für Anmeldungen bevorzugen wir eine kurze Nachricht via [Instagram DM](https://www.instagram.com/ma54gym){:target="_blank"}.
 
 Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
@@ -45,7 +45,7 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
    </a>
   </li>
   <li class="list-inline-item">
-    <a href="https://www.instagram.com/masagymwettingen" title="Instagram">
+    <a href="https://www.instagram.com/ma54gym" title="Instagram">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
