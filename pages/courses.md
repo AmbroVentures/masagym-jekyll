@@ -12,13 +12,16 @@ css:
 
 | Zeiten | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Sa/So |
 |--------|--------|----------|----------|------------|---------|---------|
-| 17:00 - 18:30 | Boxen & Kickboxen |  |  | Boxen & Kickboxen |  | |
-| 20:00 - 21:30 |  | Boxen & Kickboxen |  |  |  | |
+| Location | [Baden](/pages/location/baden) | [Wettingen](/pages/location/wettingen) |  | [Baden](/pages/location/baden) |  | [Baden](/pages/location/baden) |
+| 17:00 - 18:30 | Boxen & Kickboxen |  |  | Boxen & Kickboxen |  |  |
+| 20:00 - 21:30 |  | Boxen & Kickboxen |  |  |  |  |
 | Nach Absprache |  |  |  |  |  | Sparring |
 
 ## Anmeldung
 
-Für ein Probetraining kontaktiere einen unserer Trainer über einen Kanal - am liebsten über Instagram. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
+Melde dich an und komm zu einem unverbindlichen Probetraining vorbei. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
+
+Für Anmeldungen bevorzugen wir eine kurze Nachricht via [Instagram DM](https://www.instagram.com/masagymwettingen){:target="_blank"}.
 
 Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
