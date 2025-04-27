@@ -1,10 +1,11 @@
-# Masagmy.ch
+# MasaGym.ch
 
 MVP website for the time being.
 
 ---
 
-### Credits & Licenses
+## Credits & Licenses
+
 * This website uses [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
 Copyright (c) 2014-2016 [Dmitry Semenov](http://dimsemenov.com),
 which is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT)
