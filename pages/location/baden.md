@@ -35,7 +35,7 @@ subtitle: Trainiere mit uns!
  </ul>
  <br>
 
-### Masa Gym Wettingen
+### Masa Gym Baden
 **Addresse:**  
 Brown Boveri Str. 7
 5401 Baden
@@ -67,7 +67,7 @@ resp. [nach Baden, Trafo](https://www.sbb.ch/de?moment=%22DEPARTURE%22&stops=%5B
 
 ##### Wegbeschreibung
 
-![1.] Finde den Weg ganz einfacht mit Google Street View:
+1. Finde den Weg ganz einfacht mit Google Street View:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1745773157473!6m8!1m7!1sCAoSLEFGMVFpcE16Q1hXUGRqakkxcDYwaXpFc1Nmd2pZNXlvSGdqVlpvTG5sazFt!2m2!1d47.47919563664632!2d8.305376565616058!3f274.23798395349945!4f3.3130142836195375!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-![2.] Boxkeller im UG
+2. Boxkeller im UG
