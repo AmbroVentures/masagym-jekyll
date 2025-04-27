@@ -2,8 +2,8 @@
 layout: post
 title: Boxing Grand Prix in Riyadh
 subtitle: Highlights aus Dylans WBC-Boxdebüt
-thumbnail-img: /assets/img/promo/masa-baden.png
-share-img: /assets/img/promo/masa-baden.png
+thumbnail-img: /assets/img/promo/wbc-riyadh.png
+share-img: /assets/img/promo/wbc-riyadh.png
 tags: [Pro]
 ---
 

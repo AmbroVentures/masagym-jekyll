@@ -2,8 +2,8 @@
 layout: post
 title: Bosnischer Meister im Boxen
 subtitle: Dylan wird Meister in Sarajevo nach K.O. in Runde 1
-thumbnail-img: /assets/img/promo/masa-baden.png
-share-img: /assets/img/promo/masa-baden.png
+thumbnail-img: /assets/img/promo/sarajevo-meister.png
+share-img: /assets/img/promo/sarajevo-meister.png
 tags: [Pro]
 ---
 
