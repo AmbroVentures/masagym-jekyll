@@ -93,7 +93,7 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-rss-description: Masa Gym - Boxen in Wettingen
+rss-description: Masa Gym - Boxen in Baden-Wettingen
 
 ###########################
 # --- General options --- #
@@ -134,7 +134,7 @@ edit_page_button: false
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "boxen,boxing,wettingen,gym,masa,sport,fitness,selbstverteidigung,kampfsport,kampfsportschule,training"
+keywords: "boxen,boxing,baden,wettingen,gym,masa,sport,fitness,selbstverteidigung,kampfsport,kampfsportschule,training"
 
 ######################################
 # --- Colours / background image --- #
