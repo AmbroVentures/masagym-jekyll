@@ -10,16 +10,17 @@ css:
 
 ## Stundenplan
 
-| Zeiten | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Sa/So |
-|--------|--------|----------|----------|------------|---------|---------|
-| Location | [Baden](/pages/location/baden) | [Wettingen](/pages/location/wettingen) |  | [Baden](/pages/location/baden) |  | [Baden](/pages/location/baden) |
-| 17:00 - 18:30 | Boxen & Kickboxen |  |  | Boxen & Kickboxen |  |  |
-| 20:00 - 21:30 |  | Boxen & Kickboxen |  |  |  |  |
-| Nach Absprache |  |  |  |  |  | Sparring |
+| Zeiten         | Montag                | Dienstag | Mittwoch               | Donnerstag | Freitag                | Sa/So                        |
+|----------------|-----------------------|----------|------------------------|------------|------------------------|------------------------------|
+| Location       | [Baden](/pages/location/baden) | | [Baden](/pages/location/baden) |    | [Baden](/pages/location/baden) | [Baden](/pages/location/baden) |
+| 17:00 - 18:30  | Boxen & Kickboxen     |          |                        |            |                        |                              |
+| 19:00 - 20:30  |                       |          |                        |            | Boxen & Kickboxen      |                              |
+| 20:00 - 21:30  |                       |          | Boxen & Kickboxen      |            |                        |                              |
+| Nach Absprache |                       |          |                        |            |                        | Sparring                     |
 
 ## Anmeldung
 
-Melde dich an und komm zu einem unverbindlichen Probetraining vorbei. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
+Melde dich an und komm zu einem unverbindlichem Probetraining vorbei. Trainingsmaterial steht dir bei Bedarf zur Verfügung.
 
 Für Anmeldungen bevorzugen wir eine kurze Nachricht via [Instagram DM](https://www.instagram.com/ma54gym){:target="_blank"}.
 
