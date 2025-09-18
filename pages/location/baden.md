@@ -42,9 +42,9 @@ Brown Boveri Str. 7
 Schweiz
 
 #### Maps
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1348.2527986634327!2d8.303097039155809!3d47.48006310555757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47906cbf0fc4e859%3A0x1d4a6f839b7e9772!2sKonnex%2C%20Brown%20Boveri%20Str.%207%2C%205401%20Baden!5e0!3m2!1sen!2sch!4v1745771375900!5m2!1sen!2sch" style="text-align:center;" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2696.5055053975016!2d8.301809577429088!3d47.480064896705386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47906d9a3166ab07%3A0x7922294dc54d8429!2sMasa%20Gym!5e0!3m2!1sen!2sch!4v1758228902200!5m2!1sen!2sch" style="text-align:center;" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-Wir freuen uns dich in unserem neuen Studio im Konnex Gebäude in Baden begrüssen zu dürfen. Das Gym ist top modern und bietet alles was ein Kämpferherz begehrt: Boxring (ab Juli), Boxsäcke, Trainingsgear für Neulinge.
+Wir freuen uns dich in unserem neuen Studio im **Konnex** Gebäude in Baden begrüssen zu dürfen. Das Gym ist top modern und bietet alles was ein Kämpferherz begehrt: Boxring (ab Oktober), Boxsäcke, Trainingsgear für Neulinge.
 
 ### Anreise
 
@@ -67,7 +67,8 @@ resp. [nach Baden, Trafo](https://www.sbb.ch/de?moment=%22DEPARTURE%22&stops=%5B
 
 ##### Wegbeschreibung
 
-1. Finde den Weg ganz einfacht mit Google Street View:
+Finde den Weg ganz einfacht mit Google Street View:
+
 <iframe src="https://www.google.com/maps/embed?pb=!4v1745773157473!6m8!1m7!1sCAoSLEFGMVFpcE16Q1hXUGRqakkxcDYwaXpFc1Nmd2pZNXlvSGdqVlpvTG5sazFt!2m2!1d47.47919563664632!2d8.305376565616058!3f274.23798395349945!4f3.3130142836195375!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-2. Boxkeller im UG
+Der Boxkeller ist im UG des Konnex Gebäude.
