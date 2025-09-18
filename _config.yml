@@ -24,10 +24,8 @@ navbar-links:
     - Masa: "pages/about/masa"
     - Trainer: "pages/about/trainers"
   Kurse: "pages/courses"
-  Ort:
-    - Baden: "pages/location/baden"
-    - Wettingen: "pages/location/wettingen"
-  Gallerie: "pages/gallery/gym"
+  Ort: "pages/location/baden"
+  Gallerie: "pages/gallery/galerie"
   FAQ: "pages/faq"
   #Mehr:
   #  - "https://ambro.ventures"

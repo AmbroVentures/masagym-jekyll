@@ -7,13 +7,13 @@ subtitle: Häufig gestellte Fragen
 #### Was bietet das Gym für Kampfsportarten an?
 
 klassisches Boxen & Kickboxen  
+Es werden jeweils immer beide Kampsportarten unterrichtet. Dafür teilen wir uns zu Beginn des Unterrichts in 2 Gruppen auf.
 [→ Angebot](/pages/courses)
 
 #### Wann sind die Trainingstage?
 
-Montag & Donnerstag in Baden  
-Dienstag in Wettingen  
-(Samstag Sparring nach Absprache)  
+Das reguläre Training findet am **Montag**, **Mittwoch** und **Freitag** statt.  
+Am Wochenende (in der Regel **Samstag**) halten wir nach Absprache auch Sparring Sessions ab.  
 [→ Stundenplan](/pages/courses/#stundenplan)  
 
 #### Was kostet ein Abo?

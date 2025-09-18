@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-subtitle: Gallerie
+subtitle: Galerie
 css:
   - assets/css/gallery.css
 

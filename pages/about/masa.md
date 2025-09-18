@@ -6,7 +6,7 @@ subtitle: Masa Gym
 
 Willkommen bei **Masa Gym**, deinem Ort für Kampfsport, Fitness und Gemeinschaft!  
 
-Unser Verein mit Sitz in **Wettingen**, widmet sich der Förderung und Verbreitung von **Boxen** und **Kickboxen**. Unser Ziel ist es, Menschen aller Altersgruppen und Hintergründe zusammenzubringen und durch Kampfsport nicht nur körperliche, sondern auch mentale Stärke zu fördern.
+Unser Verein mit Sitz in **Baden**, widmet sich der Förderung und Verbreitung von **Boxen** und **Kickboxen**. Unser Ziel ist es, Menschen aller Altersgruppen und Hintergründe zusammenzubringen und durch Kampfsport nicht nur körperliche, sondern auch mentale Stärke zu fördern.
 
 ## Unsere Mission
 

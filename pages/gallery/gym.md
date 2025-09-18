@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Das Gym
-subtitle: Gallerie
+subtitle: Galerie
 js:
   - assets/js/jquery.magnific-popup.js
   - assets/js/init-gallery.js
@@ -20,6 +20,6 @@ gallery:
 #TODO: add more pics, say 2-3 sentences about the gym, equipment, etc
 ---
 
-Willkommen beim Masa Gym Wettingen! Komm herein und sieh dich virtuell in unserem Studio um.
+Willkommen beim Masa Gym! Komm herein und sieh dich virtuell in unserem Studio um.
 
 {% include gallery %}
