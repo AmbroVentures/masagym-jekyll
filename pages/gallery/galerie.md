@@ -5,7 +5,7 @@ subtitle: Coming Soon - aber auf Instagram sind wir schon aktiv!
 ---
 
 {: .box-warning}
-**Entschuldigt die Baustelle! 🏗️** Wir arbeiten daran, euch eine umfassende Galerie mit Bildern und Eindrücken aus unserem Gym zu präsentieren. Momentan ist sie noch in der Aufbau-Phase; aber ihr könnt euch schon auf was gefasst machen!
+**Entschuldigt die Baustelle! 🏗️** Wir arbeiten daran, euch eine umfassende Galerie mit Bildern und Eindrücken aus unserem Gym zu präsentieren. Momentan ist sie noch in der Aufbau-Phase, aber ihr könnt euch auf was gefasst machen!
 
 ### Wo ihr uns jetzt schon sehen könnt 📸
 
@@ -30,4 +30,4 @@ Die vollständige Galerie kommt bald – versprochen! 🥊
 
 ---
 
-_In der Zwischenzeit: Kommt einfach vorbei und erlebt die Masa Gym Atmosphäre grad live! [Probetraining buchen](/pages/courses)_
+_In der Zwischenzeit: Kommt einfach vorbei und erlebt die Masa Gym Atmosphäre grad live! [→ Probetraining buchen](/pages/courses)_
