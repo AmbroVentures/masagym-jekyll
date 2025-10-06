@@ -53,9 +53,7 @@ Wir freuen uns dich in unserem neuen Studio im [Konnex Gebäude](https://konnex-
 #### Parkplatz
 Für eine Anreise im Privatfahrzeug empfehlen wir die Parkplätze **P2** beim [Trafo Baden](https://maps.app.goo.gl/2SReBcTuWzHtGuSW7){:target="_blank"}.
 
-<a name="public-transport"></a>
-
-#### Mit der öV
+#### Mit der öV <a name="public-transport"></a>
 Zug nach Baden, Bahnhof  
 Bus nach Baden, Bruggerstrasse  
 Linien: 1, 4, 6
@@ -69,7 +67,7 @@ Finde deine optimale Route via
 [sbb.ch nach Baden, Bruggerstrasse](https://www.sbb.ch/de?moment=%22DEPARTURE%22&stops=%5B%7B%22type%22%3A%22COORDINATES%22%2C%22label%22%3A%22Aktueller%20Standort%22%2C%22value%22%3A%22%5B8.3133648%2C47.458907%5D%22%7D%2C%7B%22value%22%3A%228590297%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Baden%2C%20Bruggerstrasse%22%7D%5D){:target="_blank"}
 resp. [nach Baden, Trafo](https://www.sbb.ch/de?moment=%22DEPARTURE%22&stops=%5B%7B%22type%22%3A%22COORDINATES%22%2C%22label%22%3A%22Aktueller%20Standort%22%2C%22value%22%3A%22%5B8.3133648%2C47.458907%5D%22%7D%2C%7B%22value%22%3A%228590297%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Baden%2C%20Trafo%22%7D%5D){:target="_blank"}
 
-##### Wegbeschreibung
+#### Wegbeschreibung
 
 Finde den Weg ganz einfacht mit Google Street View:
 

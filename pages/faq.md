@@ -35,8 +35,8 @@ Ja, es gibt mehrere nahgelegene Parkplätze. Wir empfehlen die öffentlichen Par
 
 ### Kann ich mit der öV kommen? Was ist die beste Verbindung?
 
-Ja, die Anreise mit dem öffentlichen Verkehrsmittel ist mühelos möglich. Wir sind per Bus oder Zug ganz einfach zu erreichen. Wir sind keine 5min vom **Baden Bahnhof** entfernt und die **Busshaltestelle Bruggerstrasse** ist gleich ums Eck.  
-[→ Anreise](/pages/location/baden/#public-transport)
+Ja, die Anreise mit dem öffentlichen Verkehrsmittel ist mühelos möglich. Wir sind per Bus oder Zug ganz einfach zu erreichen. Wir sind keine 5min vom **Baden Bahnhof** entfernt und die **Bushaltestelle Bruggerstrasse** ist gleich ums Eck. Auch die die **Bushaltestelle Trafo** ist sehr gelegen.  
+[→ Finde die beste Verbindung](/pages/location/baden/#public-transport)
 
 ### Wie komme ich in das Gym?
 
