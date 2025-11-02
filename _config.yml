@@ -296,7 +296,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      permalink: /:title/
 
 # Exclude these files from production site
 exclude:
