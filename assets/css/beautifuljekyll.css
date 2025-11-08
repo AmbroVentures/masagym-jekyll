@@ -162,7 +162,7 @@ img {
 .navbar-custom {
   background-color: var(--navbar-col);
   border-bottom: 1px solid var(--navbar-border-col);
-  font-family: var(--header-font);
+  font-family: var(--top-font);
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -183,7 +183,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   letter-spacing: 2px;
 }
 
@@ -214,8 +214,8 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 0.8125rem;
-  letter-spacing: 0.0625rem;
+  font-size: 0.925rem;
+  letter-spacing: 0.075rem;
 }
 
 .navbar-custom .navbar-nav .nav-link {
