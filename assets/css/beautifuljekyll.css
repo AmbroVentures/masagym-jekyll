@@ -52,20 +52,27 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
+/* Tighter letter-spacing for Roboto body text */
+body, p, a, li, span {
+  letter-spacing: -0.25px;  /* Adjust between -0.25px to -0.5px */
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
-  font-weight: 400;  /* Bebas Neue is already bold by default */
+  font-weight: 100;  /* Bebas Neue is already bold by default */
   line-height: 1.1;
   letter-spacing: 1px;  /* Add spacing for vintage boxing look */
 }
 h1 {
   font-size: 2.25rem;
+  font-weight: 400;
 }
 h2 {
   font-size: 1.875rem;
+  font-weight: 400;
 }
 h3 {
   font-size: 1.5rem;
+  font-weight: 200;
 }
 h4 {
   font-size: 1.125rem;
