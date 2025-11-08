@@ -19,8 +19,8 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: 'Arial Nova Light', 'Arial Light', Arial, sans-serif;
-  --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --body-font: 'Roboto', sans-serif;
+  --header-font: 'Bebas Neue', sans-serif;
   --mid-col: #808080;
 }
 
@@ -54,8 +54,9 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
-  font-weight: 800;
+  font-weight: 400;  /* Bebas Neue is already bold by default */
   line-height: 1.1;
+  letter-spacing: 1px;  /* Add spacing for vintage boxing look */
 }
 h1 {
   font-size: 2.25rem;
@@ -175,7 +176,8 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
 }
 
 .navbar-custom .navbar-brand-logo {
