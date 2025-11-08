@@ -20,7 +20,8 @@ layout: null
 
   /* common CSS variables */
   --body-font: 'Roboto', sans-serif;
-  --header-font: 'Bebas Neue', sans-serif;
+  --top-font: 'Bebas Neue', sans-serif;
+  --header-font: 'Pathway Gothic One', sans-serif;
   --mid-col: #808080;
 }
 
@@ -58,21 +59,20 @@ body, p, a, li, span {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
-  font-weight: 100;  /* Bebas Neue is already bold by default */
+  /*font-weight: 800;*/  /* Bebas Neue and Pathway are already bold by default */
   line-height: 1.1;
   letter-spacing: 1px;  /* Add spacing for vintage boxing look */
 }
 h1 {
+  font-family: var(--top-font);
   font-size: 2.25rem;
-  font-weight: 400;
 }
 h2 {
+  font-family: var(--top-font);
   font-size: 1.875rem;
-  font-weight: 400;
 }
 h3 {
   font-size: 1.5rem;
-  font-weight: 200;
 }
 h4 {
   font-size: 1.125rem;
