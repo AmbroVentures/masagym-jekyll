@@ -729,6 +729,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
+  letter-spacing: 0.75px;
   font-family: var(--top-font);
   font-weight: 300;
   margin: 0.625rem 0 0;
