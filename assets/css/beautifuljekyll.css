@@ -66,10 +66,12 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
   font-family: var(--top-font);
   font-size: 2.25rem;
+  letter-spacing: 1.2px;
 }
 h2 {
   font-family: var(--top-font);
   font-size: 1.875rem;
+  letter-spacing: 1.1px;
 }
 h3 {
   font-size: 1.5rem;
@@ -729,7 +731,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  letter-spacing: 0.75px;
+  letter-spacing: 1px;
   font-family: var(--top-font);
   font-weight: 300;
   margin: 0.625rem 0 0;
