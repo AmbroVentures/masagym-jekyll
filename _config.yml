@@ -154,11 +154,11 @@ footer-hover-col: "#C44536"  # Red for Hover
 
 # usign https://dabuttonfactory.com/
 # txt-shadow=1, horizontal-padding=40, button-shadow=3, button-style=fully-curved
-#cta-col: "#FFA500"
-#cta-text-col: "#FFFFFF"
-#cta-shadow-col: "#CC8400"
-#cta-hover-col: "#ffb733"
-#cta-activate-col: "#cc8400"
+cta-col: "#C44536"           # Primary red from logo - bold & action-oriented
+cta-text-col: "#F5F5F0"      # Off-white for excellent contrast & readability
+cta-shadow-col: "#8B2F20"    # Darker red for depth
+cta-hover-col: "#D95545"     # Slightly brighter red for hover feedback
+cta-activate-col: "#A03528"  # Darker red for active/pressed state
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
