@@ -2,7 +2,7 @@
 layout: post
 title: Erweiterter Stundenplan & U15-Training
 subtitle: Mehr Möglichkeiten für alle – regulärer Sonntagsslot & extra Jugendtraining
-thumbnail-img: /assets/img/promo/u15-cover.png
+thumbnail-img: /assets/img/promo/u15-thumb.png
 cover-img: /assets/img/promo/u15-cover.png
 tags: [Info, Stundenplan]
 excerpt: "Unser Stundenplan hat sich geändert: Regulärer Trainingsslot am Sonntag und neues U15-Training am Freitag!"
