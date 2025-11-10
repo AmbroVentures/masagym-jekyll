@@ -61,23 +61,23 @@ h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
   /*font-weight: 800;*/  /* Bebas Neue and Pathway are already bold by default */
   line-height: 1.1;
-  letter-spacing: 1px;  /* Add spacing for vintage boxing look */
+  letter-spacing: 0.5px;  /* Add spacing for vintage boxing look */
 }
 h1 {
   font-family: var(--top-font);
   font-size: 2.25rem;
-  letter-spacing: 1.2px;
+  letter-spacing: 1.75px;
 }
 h2 {
   font-family: var(--top-font);
   font-size: 1.875rem;
-  letter-spacing: 1.1px;
+  letter-spacing: 1.25px;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 h4 {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
 }
 h1, h2, h3, h4 {
   margin-top: 3rem;
@@ -224,6 +224,8 @@ img {
   line-height: 1.25rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.9375rem;
+  font-size: 1.2rem;
+  letter-spacing: 0.075rem;
 }
 
 .navbar-custom .navbar-brand,
@@ -728,7 +730,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 1.9125rem;
   line-height: 1.1;
   display: block;
   letter-spacing: 1px;

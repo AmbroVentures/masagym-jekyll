@@ -10,13 +10,14 @@ css:
 
 ## Stundenplan
 
-| Zeiten         | Montag                | Dienstag | Mittwoch               | Donnerstag | Freitag                | Sa/So                        |
-|----------------|-----------------------|----------|------------------------|------------|------------------------|------------------------------|
-| Location       | [Baden](/pages/location/baden) | | [Baden](/pages/location/baden) |    | [Baden](/pages/location/baden) | [Baden](/pages/location/baden) |
-| 17:00 - 18:30  | Boxen & Kickboxen     |          |                        |            |                        |                              |
-| 19:00 - 20:30  |                       |          |                        |            | Boxen & Kickboxen      |                              |
-| 20:00 - 21:30  |                       |          | Boxen & Kickboxen      |            |                        |                              |
-| Nach Absprache |                       |          |                        |            |                        | Sparring                     |
+| Zeiten        | Montag            | Dienstag | Mittwoch          | Donnerstag | Freitag               | Sonntag           |
+|---------------|-------------------|----------|-------------------|------------|-----------------------|-------------------|
+| 11:00 - 12:30 |                   |          |                   |            |                       | Boxen & Kickboxen |
+| 17:00 - 18:30 | Boxen & Kickboxen |          |                   |            |                       |                   |
+| 18:00 - 19:00 |                   |          |                   |            | U15 Boxen & Kickboxen |                   |
+| 19:00 - 20:30 |                   |          |                   |            | Boxen & Kickboxen     |                   |
+| 20:00 - 21:30 |                   |          | Boxen & Kickboxen |            |                       |                   |
+| Location      | [Baden](/pages/location/baden) | | [Baden](/pages/location/baden) |    | [Baden](/pages/location/baden) | [Baden](/pages/location/baden) |
 
 ## Anmeldung
 

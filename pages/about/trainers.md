@@ -4,7 +4,7 @@ title: Über uns
 subtitle: Trainer
 ---
 
-# Dylan Rajic
+# Dylan 'Masa' Rajic
 
 > ❝ I'm the best standup fighter in Switzerland.
 
