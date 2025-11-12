@@ -14,7 +14,7 @@ Gute Neuigkeiten für alle MASA Gym Mitglieder! Unser Stundenplan wurde erweiter
 
 ## Neuer regulärer Trainingsslot am Sonntag
 
-Bisher fand Sparring nach Absprache statt. Ab sofort gibt es einen **festen, wöchentlichen Trainingsslot am Sonntag um 11 Uhr**. Neben regulärem Box und Kickboxunterricht bietet dieser Slot auch weiterhin Platz für Spezialeinheiten: mal Brazilian Jiu-Jitsu, mal intensives Sparring – abwechslungsreich und herausfordernd! Wie immer geben wir euch im Gruppenchat bescheid.
+Bisher fand Sparring nach Absprache statt. Ab sofort gibt es einen **festen, wöchentlichen Trainingsslot am Sonntag um 11 Uhr**. Neben regulärem Box und Kickboxunterricht bietet dieser Slot auch weiterhin Platz für Spezialeinheiten: mal Brazilian Jiu-Jitsu, mal light-contact Sparring – abwechslungsreich und herausfordernd! Wie immer geben wir euch im Gruppenchat bescheid.
 
 ## Neues U15-Training am Freitag
 
