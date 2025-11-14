@@ -24,6 +24,6 @@ Schaut vorbei, nutzt die neuen Möglichkeiten und bringt eure Freunde mit! Gemei
 
 **Wir freuen uns auf euch im Training!**
 
-<a class="cta-button" href='/pages/courses'>Zum aktualisierten Stundenplan</a>
+<a class="cta-button" href='/pages/courses/'>Zum aktualisierten Stundenplan</a>
 
 _Fragen? Schreibt uns oder kommt einfach vorbei!_

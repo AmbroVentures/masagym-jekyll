@@ -7,7 +7,7 @@ share-img: /assets/img/promo/sarajevo-meister.png
 tags: [Pro]
 ---
 
-[Dylan Rajic](/pages/about/trainers) wird bosnischer Meister im Boxen und qualifiziert sich damit für die Box-Weltmeisterschaft.
+[Dylan Rajic](/pages/about/trainers/) wird bosnischer Meister im Boxen und qualifiziert sich damit für die Box-Weltmeisterschaft.
 
 Doch zuvor ergreift er eine einmalige Chance: Er wird sein WBC-Debüt beim renommierten Boxing Grand Prix in Riyadh geben.
 

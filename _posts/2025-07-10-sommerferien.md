@@ -19,11 +19,11 @@ Wir wünschen euch allen **erholsame Ferien**, unvergessliche Momente und hoffen
 
 ### Ausschliesslich in Baden
 
-Ab August konzentrieren wir uns vollständig auf unseren [Standort in Baden](/pages/location/baden). Dort erwartet euch modernste Ausstattung und eine optimale Trainingsumgebung.
+Ab August konzentrieren wir uns vollständig auf unseren [Standort in Baden](/pages/location/baden/). Dort erwartet euch modernste Ausstattung und eine optimale Trainingsumgebung.
 
 ### Neue Trainingszeiten
 
-Unser neuer [Stundenplan](/pages/courses) bietet euch ab dem 4. August noch mehr Flexibilität:
+Unser neuer [Stundenplan](/pages/courses/) bietet euch ab dem 4. August noch mehr Flexibilität:
 
 - **Montag**: 17:00 – 18:30 Uhr
 - **Mittwoch**: 20:00 – 21:30 Uhr  
@@ -33,11 +33,11 @@ Ob nach Feierabend oder zum Wochenstart – für jeden ist der passende Termin d
 
 ## Bereit für den Neustart im August?
 
-Nach der wohlverdienten Pause starten wir motiviert in die neue Saison. Unsere [Trainer](/pages/about/trainers) freuen sich darauf, ab dem 4. August wieder mit euch an euren Zielen zu arbeiten.
+Nach der wohlverdienten Pause starten wir motiviert in die neue Saison. Unsere [Trainer](/pages/about/trainers/) freuen sich darauf, ab dem 4. August wieder mit euch an euren Zielen zu arbeiten.
 
 **Lust auf einen Neustart nach den Ferien?** Schau bei einem kostenlosen Probetraining vorbei und erlebe selbst, was Masa Gym zu bieten hat.
 
-Alle Details zu Preisen und Anmeldung findest du auf unserer [Kursseite](/pages/courses).
+Alle Details zu Preisen und Anmeldung findest du auf unserer [Kursseite](/pages/courses/).
 
 Bis dahin: Erholsame Ferien und wir sehen uns im August im Ring! 💪
 

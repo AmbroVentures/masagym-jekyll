@@ -8,7 +8,7 @@ subtitle: Häufig gestellte Fragen
 
 klassisches Boxen & Kickboxen  
 Es werden jeweils immer beide Kampsportarten unterrichtet. Dafür teilen wir uns zu Beginn des Unterrichts in 2 Gruppen auf.  
-[→ Angebot](/pages/courses)
+[→ Angebot](/pages/courses/)
 
 ### Wann sind die Trainingstage?
 

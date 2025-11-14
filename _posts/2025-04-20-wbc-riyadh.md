@@ -7,7 +7,7 @@ share-img: /assets/img/promo/wbc-riyadh.png
 tags: [Pro]
 ---
 
-[Dylan](/pages/about/trainers) hat bei seinem WBC-Debüt in Riyadh starke Momente gezeigt! 🥊🔥
+[Dylan](/pages/about/trainers/) hat bei seinem WBC-Debüt in Riyadh starke Momente gezeigt! 🥊🔥
 
 Auch wenn das Turnier für ihn leider früh endete, war es eine wertvolle Erfahrung auf großer Bühne.
 
