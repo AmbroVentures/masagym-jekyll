@@ -23,6 +23,7 @@ navbar-links:
   Über uns: 
     - Masa: "pages/about/masa/"
     - Trainer: "pages/about/trainers/"
+    - Community: "pages/about/community/"
   Kurse: "pages/courses/"
   Ort: "pages/location/baden/"
   Gallerie: "pages/gallery/galerie/"

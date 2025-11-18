@@ -30,10 +30,12 @@ Auf unserer [Kursübersicht](/pages/courses/) findest du weitere Details wie Stu
 - **Vielfalt:** Vielfalt macht uns stark.  
 - **Kompetenz:** Unser [Trainerteam](/pages/about/trainers/) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogicher Ausbildung.
 
+-----
+
 ## Werde Teil von Masa Gym
 
 Ob du den Kampfsport neu ausprobieren möchtest oder dich auf einen professionellen Kampf vorbereitest – wir freuen uns darauf, dich dabei zu begleiten.
 
-Mit diesem [Anreiseplan](/pages/location/) findest du uns problemlos.
+Mit diesem [Anreiseplan](/pages/location/baden/) findest du uns problemlos.
 
 **Komm vorbei und trainiere mit uns.**  
