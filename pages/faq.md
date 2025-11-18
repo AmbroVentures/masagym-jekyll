@@ -7,7 +7,7 @@ subtitle: Häufig gestellte Fragen
 ### Was bietet das Gym für Kampfsportarten an?
 
 klassisches Boxen & Kickboxen  
-Es werden jeweils immer beide Kampsportarten unterrichtet. Dafür teilen wir uns zu Beginn des Unterrichts in 2 Gruppen auf.  
+Es werden jeweils immer beide Kampfsportarten unterrichtet. Dafür teilen wir uns zu Beginn des Unterrichts in 2 Gruppen auf.  
 [→ Angebot](/pages/courses/)
 
 ### Wann sind die Trainingstage?
@@ -30,7 +30,7 @@ Wir sind im im [Konnex Gebäude](https://konnex-baden.ch/standort/){:target="_bl
 
 ### Hat es Parkplätze? Kann ich mit dem Auto kommen?
 
-Ja, es gibt mehrere nahgelegene Parkplätze. Wir empfehlen die öffentlichen Parkplätze beim [Trafo Baden](https://maps.app.goo.gl/2SReBcTuWzHtGuSW7){:target="_blank"}.  
+Ja, es gibt mehrere nahegelegene Parkplätze. Wir empfehlen die öffentlichen Parkplätze beim [Trafo Baden](https://maps.app.goo.gl/2SReBcTuWzHtGuSW7){:target="_blank"}.  
 [→ Anreise](/pages/location/baden/#anreise)
 
 ### Kann ich mit der öV kommen? Was ist die beste Verbindung?
@@ -40,7 +40,7 @@ Ja, die Anreise mit dem öffentlichen Verkehrsmittel ist mühelos möglich. Wir 
 
 ### Wie komme ich in das Gym?
 
-Wir sind im **UG des Konnex Gebäude**. Nimm den **Haupteingang im Kopfbau K** und geh im **Finger A** die Treppe runter. Dann folge der **Beschilderung zum Boxkeller**. Wir öffnen die Türen im UG spätestens 15min vor Traininsbegin.  
+Wir sind im **UG des Konnex Gebäude**. Nimm den **Haupteingang im Kopfbau K** und geh im **Finger A** die Treppe runter. Dann folge der **Beschilderung zum Boxkeller**. Wir öffnen die Türen im UG spätestens 15min vor Trainingsbeginn.  
 [→ Wegbeschreibung](/pages/location/baden/#wegbeschreibung)
 
 Ist dir noch irgendetwas unklar? Scheue nicht davor uns jederzeit zu kontaktieren.

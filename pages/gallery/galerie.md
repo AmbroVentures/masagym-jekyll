@@ -21,7 +21,7 @@ Die neuesten Einblicke in unser Training, unsere Community und was bei uns abgeh
       <span class="sr-only">Instagram</span>
    </a>
   </li>
-</ul> 
+</ul>
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item"><em>(Hier seht ihr, was wir drauf haben!)</em></li>
 </ul>

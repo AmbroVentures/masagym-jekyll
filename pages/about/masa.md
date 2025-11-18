@@ -28,7 +28,7 @@ Auf unserer [Kursübersicht](/pages/courses/) findest du weitere Details wie Stu
 
 - **Respekt:** Der Umgang miteinander ist fair, freundlich und wertschätzend.
 - **Vielfalt:** Vielfalt macht uns stark.  
-- **Kompetenz:** Unser [Trainerteam](/pages/about/trainers/) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogicher Ausbildung.
+- **Kompetenz:** Unser [Trainerteam](/pages/about/trainers/) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogischer Ausbildung.
 
 -----
 
