@@ -4,12 +4,14 @@ title: Unsere Community
 subtitle: Das Herz von Masa Gym
 ---
 
-## Mehr als nur ein Boxgym
+## Mehr als nur ein Box Club
 
 MASA Gym verbindet Kampfgeist mit Leidenschaft – hier trainiert man nicht nur, man gehört dazu! Egal welches Level, wir gehen auf einander ein und unterstützen uns gegenseitig. Zusammen schaffen wir eine Atmosphäre, in der sich Können entwickelt und Respekt selbstverständlich ist. Dich erwartet die Kombination aus professionellem, intensivem Training und dem Feeling, Teil einer echten Boxer-Familie zu sein.
 
 <img src="{{ 'assets/img/about/group-photo.jpg' | relative_url }}" alt="MASA Gym Community Group Photo" loading="lazy">
-_Unsere Masa Familie nach dem Training_
+<div style="text-align: center;">
+  <em>(unsere Masa Familie nach dem Training)</em>
+</div>
 
 ## Das sagen unsere Member
 
