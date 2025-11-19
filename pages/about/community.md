@@ -8,9 +8,9 @@ subtitle: Das Herz von Masa Gym
 
 MASA Gym verbindet Kampfgeist mit Leidenschaft – hier trainiert man nicht nur, man gehört dazu! Egal welches Level, wir gehen auf einander ein und unterstützen uns gegenseitig. Zusammen schaffen wir eine Atmosphäre, in der sich Können entwickelt und Respekt selbstverständlich ist. Dich erwartet die Kombination aus professionellem, intensivem Training und dem Feeling, Teil einer echten Boxer-Familie zu sein.
 
-<img src="{{ 'assets/img/about/group-photo.jpg' | relative_url }}" alt="MASA Gym Community Group Photo" loading="lazy">
 <div style="text-align: center;">
-  <em>(unsere Masa Familie nach dem Training)</em>
+    <img src="{{ 'assets/img/about/group-photo.jpg' | relative_url }}" alt="MASA Gym Community Group Photo" loading="lazy"><br>
+    <em>(unsere Masa Familie nach dem Training)</em>
 </div>
 
 ## Das sagen unsere Member
