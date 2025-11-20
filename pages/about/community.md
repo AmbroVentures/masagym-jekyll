@@ -13,7 +13,7 @@ MASA Gym verbindet Kampfgeist mit Leidenschaft – hier trainiert man nicht nur,
     <em>(unsere Masa Familie nach dem Training)</em>
 </div>
 
-## Das sagen unsere Mitgliedern
+## Das sagen unsere Mitglieder
 
 Was uns wirklich auszeichnet, erfährst du am besten von denen, die hier schwitzen.
 
