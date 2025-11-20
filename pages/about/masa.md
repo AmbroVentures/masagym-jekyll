@@ -30,7 +30,7 @@ Auf unserer [Kursübersicht]({{ '/pages/courses/' | relative_url }}) findest du 
 - **Vielfalt:** Vielfalt macht uns stark.  
 - **Kompetenz:** Unser [Trainerteam]({{ '/pages/about/trainers/' | relative_url }}) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogischer Ausbildung.
 
------
+----
 
 ## Werde Teil von Masa Gym
 

@@ -33,7 +33,7 @@ Alle Trainings finden in [Baden]({{ '/pages/location/baden/' | relative_url }}) 
 - **Mehr Platz** für effektives Training  
 - **Neue Trainingszeiten** für verschiedene Bedürfnisse
 
-----
+-----
 
 **Fragen?** Meldet euch gerne via [Instagram](https://www.instagram.com/ma54gym) oder direkt beim Training.
 
@@ -41,6 +41,6 @@ Alle Details zum [Standort Baden]({{ '/pages/location/baden/' | relative_url }})
 
 Wir freuen uns darauf, euch alle in Baden zu sehen! 💪
 
-----
+-----
 
 _Cover Image By <a href="//commons.wikimedia.org/wiki/User:LuFiLa" title="User:LuFiLa">Lutz Fischer-Lamprecht</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=96350356">Link</a>_
