@@ -31,7 +31,7 @@ Die vollständige Galerie kommt bald – versprochen! 🥊
 ---
 
 _In der Zwischenzeit: Kommt einfach vorbei und erlebt die Masa Gym Atmosphäre grad live!_  
-_[→ Probetraining vereinbaren](/pages/courses/)_
+_[→ Probetraining vereinbaren]({{ '/pages/courses/' | relative_url }})_
 
 ---
 

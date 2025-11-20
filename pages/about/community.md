@@ -21,6 +21,6 @@ Was uns wirklich auszeichnet, erfährst du am besten von denen, die hier schwitz
 
 ## Werde auch du Teil von unserer Community
 
-Mit diesem [Anreiseplan](/pages/location/baden/) findest du uns problemlos.
+Mit diesem [Anreiseplan]({{ '/pages/location/baden/' | relative_url }}) findest du uns problemlos.
 
 **Wir freuen uns darauf, mit dir zu trainieren.**

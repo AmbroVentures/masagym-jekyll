@@ -32,10 +32,10 @@ subtitle: Trainiere mit uns!
       <span class="sr-only">Instagram</span>
    </a>
   </li>
- </ul> 
+ </ul>
  <br>
 
 ### Masa Gym Wettingen
 
 {: .box-warning}
-**Achtung:** Dieser Standort wurde geschlossen. Gerne empfangen wir dich stattdessen in [Baden](/pages/location/baden/).
+**Achtung:** Dieser Standort wurde geschlossen. Gerne empfangen wir dich stattdessen in [Baden]({{ '/pages/location/baden/' | relative_url }}).
