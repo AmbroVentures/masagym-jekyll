@@ -10,14 +10,14 @@ css:
 
 ## Stundenplan
 
-| Zeiten        | Montag            | Dienstag | Mittwoch          | Donnerstag | Freitag               | Sonntag           |
-|---------------|-------------------|----------|-------------------|------------|-----------------------|-------------------|
-| 11:00 - 12:30 |                   |          |                   |            |                       | Boxen & Kickboxen |
-| 17:00 - 18:30 | Boxen & Kickboxen |          |                   |            |                       |                   |
-| 18:00 - 19:00 |                   |          |                   |            | U15 Boxen & Kickboxen |                   |
-| 19:00 - 20:30 |                   |          |                   |            | Boxen & Kickboxen     |                   |
-| 20:00 - 21:30 |                   |          | Boxen & Kickboxen |            |                       |                   |
-| Location      | [Baden](/pages/location/baden) | | [Baden](/pages/location/baden) |    | [Baden](/pages/location/baden) | [Baden](/pages/location/baden) |
+| Zeiten        | Montag            | Di | Mittwoch          | Do | Freitag               | Sa | Sonntag           |
+|---------------|-------------------|----|-------------------|----|-----------------------|----|-------------------|
+| 11:00 - 12:30 |                   |    |                   |    |                       |    | Boxen & Kickboxen |
+| 17:00 - 18:30 | Boxen & Kickboxen |    |                   |    |                       |    |                   |
+| 18:00 - 19:00 |                   |    |                   |    | U15 Boxen & Kickboxen |    |                   |
+| 19:00 - 20:30 |                   |    |                   |    | Boxen & Kickboxen     |    |                   |
+| 20:00 - 21:30 |                   |    | Boxen & Kickboxen |    |                       |    |                   |
+| Location      | [Baden](/pages/location/baden/) | | [Baden](/pages/location/baden/) |    | [Baden](/pages/location/baden/) | | [Baden](/pages/location/baden/) |
 
 ## Anmeldung
 
@@ -68,4 +68,4 @@ Bei Fragen erreichst du uns jederzeit über folgende Kanäle:
 
 ## Privatstunden
 
-Vereinbare mit unserem kompetenten [Headcoach](/pages/about/trainers) massgeschneiderte 1:1-Trainingsstunden, um deine persönlichen Ziele zu erreichen.
+Vereinbare mit unserem kompetenten [Headcoach]({{ '/pages/about/trainers/' | relative_url }}) massgeschneiderte 1:1-Trainingsstunden, um deine persönlichen Ziele zu erreichen.

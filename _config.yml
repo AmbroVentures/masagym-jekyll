@@ -21,12 +21,13 @@ author: © Masa Gym
 
 navbar-links:
   Über uns: 
-    - Masa: "pages/about/masa"
-    - Trainer: "pages/about/trainers"
-  Kurse: "pages/courses"
-  Ort: "pages/location/baden"
-  Gallerie: "pages/gallery/galerie"
-  FAQ: "pages/faq"
+    - Masa: "pages/about/masa/"
+    - Trainer: "pages/about/trainers/"
+    - Community: "pages/about/community/"
+  Kurse: "pages/courses/"
+  Ort: "pages/location/baden/"
+  Galerie: "pages/gallery/galerie/"
+  FAQ: "pages/faq/"
   #Mehr:
   #  - "https://ambro.ventures"
 
@@ -132,7 +133,7 @@ edit_page_button: false
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "boxen,boxing,baden,wettingen,gym,masa,sport,fitness,selbstverteidigung,kampfsport,kampfsportschule,training"
+keywords: "boxen,boxing,baden,wettingen,gym,masa,sport,fitness,selbstverteidigung,kampfsport,kampfsportschule,training,kickboxen"
 
 ######################################
 # --- Colours / background image --- #

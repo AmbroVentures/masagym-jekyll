@@ -36,7 +36,7 @@ subtitle: Trainiere mit uns!
  <br>
 
 # Masa Gym Baden
-**Addresse:**  
+**Adresse:**  
 Brown Boveri Str. 7,
 5401 Baden,
 Schweiz

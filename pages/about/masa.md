@@ -22,18 +22,20 @@ Wir setzen uns für eine respektvolle und ethische Ausübung des Kampfsports ein
 
 Unser Verein bietet nicht nur ein Umfeld für sportliche Entwicklung, sondern auch für persönliche Entfaltung und soziale Kontakte.
 
-Auf unserer [Kursübersicht](/pages/courses.md) findest du weitere Details wie Stundenplan und Preise.
+Auf unserer [Kursübersicht]({{ '/pages/courses/' | relative_url }}) findest du weitere Details wie Stundenplan und Preise.
 
 ## Unsere Werte
 
 - **Respekt:** Der Umgang miteinander ist fair, freundlich und wertschätzend.
 - **Vielfalt:** Vielfalt macht uns stark.  
-- **Kompetenz:** Unser [Trainerteam](/pages/about/trainers.md) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogicher Ausbildung.
+- **Kompetenz:** Unser [Trainerteam]({{ '/pages/about/trainers/' | relative_url }}) zeichnet sich durch professioneller Kampferfahrung im Boxen, Kickboxen und MMA aus, sowie pädagogischer Ausbildung.
+
+----
 
 ## Werde Teil von Masa Gym
 
 Ob du den Kampfsport neu ausprobieren möchtest oder dich auf einen professionellen Kampf vorbereitest – wir freuen uns darauf, dich dabei zu begleiten.
 
-Mit diesem [Anreiseplan](/pages/location.md) findest du uns problemlos.
+Mit diesem [Anreiseplan]({{ '/pages/location/baden/' | relative_url }}) findest du uns problemlos.
 
 **Komm vorbei und trainiere mit uns.**  
